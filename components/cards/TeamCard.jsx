@@ -66,7 +66,6 @@ const Card = React.forwardRef(
           </CardTitle>
        
           {role && <Text type="short-p" className="pb-3">{role}</Text>}
-
           {email && (
             <Mybadge
               size="sm"

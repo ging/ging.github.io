@@ -69,7 +69,7 @@ export default function Page() {
             <BannerTitle className={"text-white "}>
               {t("front.title")}
             </BannerTitle>
-            <BannerDescription className="h-full text-balance flex flex-col gap-2 font-normal">
+            <BannerDescription className=" text-balance flex flex-col gap-2 font-normal">
               {t("front.description")}
             </BannerDescription>
             <Divider />
